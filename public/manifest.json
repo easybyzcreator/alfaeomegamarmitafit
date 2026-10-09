@@ -1,0 +1,22 @@
+{
+  "name": "Alfa e Omega",
+  "short_name": "Alfa e Omega",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#865d39",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/Xk2rJjx5/patitour-2026-09-03-T164922-203.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/Xk2rJjx5/patitour-2026-09-03-T164922-203.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
